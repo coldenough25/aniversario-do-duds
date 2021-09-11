@@ -6,7 +6,7 @@ const Layout = ({ pageTitle, children }) => {
     <div className={container}>
       <title>{pageTitle}</title>
       <main>
-        <h1>Parabéns Eduardo</h1>
+        <h1>Parabéns Eduardo Empreendedor Porteiro do Mestre Main Champ Sem Camisa!!!**</h1>
         {children}
       </main>
     </div>
